@@ -4,6 +4,9 @@
 
 <h1>Jokes Page</h1>
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/05f2e366-70e1-456d-bbe2-cf8e229d4845)
 
 <h1>Jokes Detail</h1>
+
+![image](https://github.com/user-attachments/assets/27bda5b9-6cb6-45d6-8d75-02bb87b5e598)
+
