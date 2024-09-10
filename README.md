@@ -6,3 +6,4 @@
 
 ![Uploading image.png…]()
 
+<h1>Jokes Detail</h1>
