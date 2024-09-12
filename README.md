@@ -17,3 +17,6 @@
 <h1>Edit Joke</h1>
 
 ![image](https://github.com/user-attachments/assets/c3b102a4-7df4-4029-bfcf-8083c0c4867b)
+
+
+![image](https://github.com/user-attachments/assets/54e91176-0281-450c-9db1-07ed6e85c4d2)
