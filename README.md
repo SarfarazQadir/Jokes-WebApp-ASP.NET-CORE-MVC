@@ -15,3 +15,5 @@
 ![image](https://github.com/user-attachments/assets/e9262f7d-e900-4b74-b79f-b716131a583a)
 
 <h1>Edit Joke</h1>
+
+![image](https://github.com/user-attachments/assets/c3b102a4-7df4-4029-bfcf-8083c0c4867b)
