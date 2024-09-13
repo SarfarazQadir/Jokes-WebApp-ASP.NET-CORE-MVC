@@ -24,3 +24,6 @@
 
 <h1>Authentication </h1>
 <h1>Register</h1>
+
+![image](https://github.com/user-attachments/assets/022c8f86-c47c-46de-a756-11a8c7642337)
+
