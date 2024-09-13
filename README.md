@@ -21,3 +21,5 @@
 <h1>Jokes Detail</h1>
 
 ![image](https://github.com/user-attachments/assets/54e91176-0281-450c-9db1-07ed6e85c4d2)
+
+<h1>Authentication </h1>
